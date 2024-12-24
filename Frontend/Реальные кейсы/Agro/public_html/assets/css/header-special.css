@@ -1,0 +1,36 @@
+main {
+	margin-top: 180px !important;
+}
+header.header {
+	position: fixed;
+	background: rgba(255, 255, 255, 0.5);
+	backdrop-filter: blur(10px);
+	animation: none !important;
+	transform: translate(0) !important;
+}
+header.header .menu__list__link {
+	color: #272727;
+}
+.menu__list__item .black__arrow {
+	opacity: 1;
+	visibility: visible;
+}
+.menu__list__item .white__arrow {
+	opacity: 1;
+	visibility: visible;
+}
+.menu__list__item_more img {
+	display: none;
+}
+.menu__list__item_more::after {
+	content: '';
+	background-image: url('../images/index/arrow_black.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 10px;
+	height: 7px;
+	flex-shrink: 0;
+}
+.line {
+	background: #272727;
+}

@@ -1,0 +1,7 @@
+D:\Начало\Start\Start3\bin\Debug\Start3.exe.config
+D:\Начало\Start\Start3\bin\Debug\Start3.exe
+D:\Начало\Start\Start3\bin\Debug\Start3.pdb
+D:\Начало\Start\Start3\obj\Debug\Start3.csproj.AssemblyReference.cache
+D:\Начало\Start\Start3\obj\Debug\Start3.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Start3\obj\Debug\Start3.exe
+D:\Начало\Start\Start3\obj\Debug\Start3.pdb

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculators</title>
+    <link rel="stylesheet" href="CSS/reset.css">
+    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="CSS/fonts.css">
+</head>
+
+<body>
+    <div class="wrapper">
+
+        <div class="table" id="calc">
+            <select id="choise" class="table__border">
+                <option value="-" selected class="table__btn">-</option>
+                <option value="traditional" class="table__btn">
+                    <span>Традиционный</span>
+                </option>
+
+                <option value="deposition" class="table__btn">
+                    <span>Депозитный</span>
+                </option>
+
+                <option value="system__nums" class="table__btn">
+                    <span>Системы счисления</span>
+                </option>
+            </select>
+            <table id="table__calc-trad">
+                <tbody>
+                    <tr>
+                        <td colspan="3" id="input" class="input">
+                        </td>
+                        <td id="reset">C</td>
+                        <td id="resultTrad">=</td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>8</td>
+                        <td>9</td>
+                        <td id="1">+</td>
+                        <td id="2">-</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>5</td>
+                        <td>6</td>
+                        <td id="3">/</td>
+                        <td id="4">*</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>3</td>
+                        <td id="5">%</td>
+                        <td id="6">**</td>
+                    </tr>
+                    <tr>
+                        <td>0</td>
+                        <td>00</td>
+                        <td>000</td>
+                        <td>√</td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+            <table id="table__calc-depos">
+                <tbody>
+                    <tr>
+                        <td colspan="3" id="inputDepos" class="input">
+                        </td>
+                        <td id="profit"></td>
+                        <td id="resetDepos">C</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="number" id="money" value="10000">
+                        </td>
+                        <td>
+                            <input type="number" id="interest" value="10">
+                        </td>
+                        <td>
+                            <input type="number" id="months" value="12">
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+            <table id="table__calc-nums">
+                <tbody>
+                    <tr>
+                        <td colspan="2" id="inputNums" class="input">
+                        </td>
+                        <td id="resultConvertor"></td>
+                        <td id="resetNums">C</td>
+                        <td id="resultNums">=</td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>8</td>
+                        <td>9</td>
+                        <td id="from2" data-value="2">Двоичная</td>
+                        <td id="to2" data-value="2">Двоичная</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>5</td>
+                        <td>6</td>
+                        <td id="from8" data-value="8">Восьмеричная</td>
+                        <td id="to8" data-value="8">Восьмеричная</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>3</td>
+                        <td id="from16" data-value="16">Шестнадцатиричная</td>
+                        <td id="to16" data-value="16">Шестнадцатиричная</td>
+                    </tr>
+                    <tr>
+                        <td>0</td>
+                        <td>00</td>
+                        <td>000</td>
+                        <td id="from10" data-value="10">Десятичная</td>
+                        <td id="to10" data-value="10">Десятичная</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+<script src="main.js"></script>
+
+</html>

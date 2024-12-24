@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Benzin';
+    src: local(Benzin-ExtraBold),
+        url('../fonts/Benzin-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Benzin-ExtraBold.woff') format('woff'),
+        url('../fonts/Benzin-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Benzin';
+    src: local(Benzin-Medium),
+        url('../fonts/Benzin-Medium.woff2') format('woff2'),
+        url('../fonts/Benzin-Medium.woff') format('woff'),
+        url('../fonts/Benzin-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Benzin';
+    src: local(Benzin-Bold),
+        url('../fonts/Benzin-Bold.woff2') format('woff2'),
+        url('../fonts/Benzin-Bold.woff') format('woff'),
+        url('../fonts/Benzin-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Benzin';
+    src: local(Benzin-Semibold),
+        url('../fonts/Benzin-Semibold.woff2') format('woff2'),
+        url('../fonts/Benzin-Semibold.woff') format('woff'),
+        url('../fonts/Benzin-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Benzin';
+    src: local(Benzin-Regular),
+        url('../fonts/Benzin-Regular.woff2') format('woff2'),
+        url('../fonts/Benzin-Regular.woff') format('woff'),
+        url('../fonts/Benzin-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'PT Sans';
+    src: local(PTSans-Regular),
+        url('../fonts/PTSans-Regular.woff2') format('woff2'),
+        url('../fonts/PTSans-Regular.woff') format('woff'),
+        url('../fonts/PTSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: local(PTSans-BoldItalic),
+        url('../fonts/PTSans-BoldItalic.woff2') format('woff2'),
+        url('../fonts/PTSans-BoldItalic.woff') format('woff'),
+        url('../fonts/PTSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: local(PTSans-Italic),
+        url('../fonts/PTSans-Italic.woff2') format('woff2'),
+        url('../fonts/PTSans-Italic.woff') format('woff'),
+        url('../fonts/PTSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: local(PTSans-Bold),
+        url('../fonts/PTSans-Bold.woff2') format('woff2'),
+        url('../fonts/PTSans-Bold.woff') format('woff'),
+        url('../fonts/') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
