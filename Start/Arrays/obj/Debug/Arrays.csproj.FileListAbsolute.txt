@@ -1,0 +1,7 @@
+D:\Начало\Start\Arrays\bin\Debug\Arrays.exe.config
+D:\Начало\Start\Arrays\bin\Debug\Arrays.exe
+D:\Начало\Start\Arrays\bin\Debug\Arrays.pdb
+D:\Начало\Start\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Начало\Start\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Arrays\obj\Debug\Arrays.exe
+D:\Начало\Start\Arrays\obj\Debug\Arrays.pdb
