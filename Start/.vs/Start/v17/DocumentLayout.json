@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B9C4B08-4421-4319-B50E-21B67F8FA3A8}|Methods\\Methods.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B9C4B08-4421-4319-B50E-21B67F8FA3A8}|Methods\\Methods.csproj|solutionrelative:methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB689AB-5712-48AD-B60F-EAF8396515B0}|Start3\\Start3.csproj|D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\start3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB689AB-5712-48AD-B60F-EAF8396515B0}|Start3\\Start3.csproj|solutionrelative:start3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F035E09-66E7-4A04-A50A-F41605E46634}|ConsoleApp1\\ConsoleApp1.csproj|D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F035E09-66E7-4A04-A50A-F41605E46634}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA48F6ED-46AC-438E-A037-71A07FC34169}|Arrays\\Arrays.csproj|D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA48F6ED-46AC-438E-A037-71A07FC34169}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\classes and objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|solutionrelative:classes and objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,52 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Methods\\Program.cs",
-              "RelativeDocumentMoniker": "Methods\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Methods\\Program.cs",
-              "RelativeToolTip": "Methods\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Classes and objects\\Program.cs",
+              "RelativeDocumentMoniker": "Classes and objects\\Program.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Classes and objects\\Program.cs",
+              "RelativeToolTip": "Classes and objects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T11:49:00.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Arrays\\Program.cs",
-              "RelativeToolTip": "Arrays\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T12:26:33.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:53:39.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Start3\\Program.cs",
-              "RelativeDocumentMoniker": "Start3\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Start3\\Program.cs",
-              "RelativeToolTip": "Start3\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:51:39.98Z",
+              "WhenOpened": "2025-01-06T07:41:47.528Z",
               "EditorCaption": ""
             }
           ]

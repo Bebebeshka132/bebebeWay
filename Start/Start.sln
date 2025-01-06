@@ -9,7 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{BA48F6ED-46AC-438E-A037-71A07FC34169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{0B9C4B08-4421-4319-B50E-21B67F8FA3A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods and params", "Methods\Methods and params.csproj", "{0B9C4B08-4421-4319-B50E-21B67F8FA3A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Основы программирования на C#", "Основы программирования на C#", "{FE111C33-3B61-4B84-99F4-033520412034}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Классы структуры и пространства имён", "Классы структуры и пространства имён", "{4943373D-3F56-4C3F-8BCF-04797A728A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes and objects", "Classes and objects\Classes and objects.csproj", "{C00264A8-591A-448C-A40B-C062D0070EFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +39,19 @@ Global
 		{0B9C4B08-4421-4319-B50E-21B67F8FA3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B9C4B08-4421-4319-B50E-21B67F8FA3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B9C4B08-4421-4319-B50E-21B67F8FA3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00264A8-591A-448C-A40B-C062D0070EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00264A8-591A-448C-A40B-C062D0070EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00264A8-591A-448C-A40B-C062D0070EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00264A8-591A-448C-A40B-C062D0070EFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1CB689AB-5712-48AD-B60F-EAF8396515B0} = {FE111C33-3B61-4B84-99F4-033520412034}
+		{3F035E09-66E7-4A04-A50A-F41605E46634} = {FE111C33-3B61-4B84-99F4-033520412034}
+		{BA48F6ED-46AC-438E-A037-71A07FC34169} = {FE111C33-3B61-4B84-99F4-033520412034}
+		{0B9C4B08-4421-4319-B50E-21B67F8FA3A8} = {FE111C33-3B61-4B84-99F4-033520412034}
+		{C00264A8-591A-448C-A40B-C062D0070EFF} = {4943373D-3F56-4C3F-8BCF-04797A728A5B}
 	EndGlobalSection
 EndGlobal

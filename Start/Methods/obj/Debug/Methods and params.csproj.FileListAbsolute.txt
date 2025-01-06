@@ -1,0 +1,7 @@
+D:\Начало\Start\Methods\bin\Debug\Methods.exe.config
+D:\Начало\Start\Methods\bin\Debug\Methods.exe
+D:\Начало\Start\Methods\bin\Debug\Methods.pdb
+D:\Начало\Start\Methods\obj\Debug\Methods and params.csproj.AssemblyReference.cache
+D:\Начало\Start\Methods\obj\Debug\Methods and params.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Methods\obj\Debug\Methods.exe
+D:\Начало\Start\Methods\obj\Debug\Methods.pdb
