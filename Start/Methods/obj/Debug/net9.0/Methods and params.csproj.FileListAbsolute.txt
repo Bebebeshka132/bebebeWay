@@ -1,0 +1,14 @@
+D:\Начало\Start\Methods\bin\Debug\net9.0\Methods.exe
+D:\Начало\Start\Methods\bin\Debug\net9.0\Methods.dll.config
+D:\Начало\Start\Methods\bin\Debug\net9.0\Methods.deps.json
+D:\Начало\Start\Methods\bin\Debug\net9.0\Methods.runtimeconfig.json
+D:\Начало\Start\Methods\bin\Debug\net9.0\Methods.dll
+D:\Начало\Start\Methods\bin\Debug\net9.0\Methods.pdb
+D:\Начало\Start\Methods\obj\Debug\net9.0\Methods and params.GeneratedMSBuildEditorConfig.editorconfig
+D:\Начало\Start\Methods\obj\Debug\net9.0\Methods and params.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Methods\obj\Debug\net9.0\Methods and params.sourcelink.json
+D:\Начало\Start\Methods\obj\Debug\net9.0\Methods.dll
+D:\Начало\Start\Methods\obj\Debug\net9.0\refint\Methods.dll
+D:\Начало\Start\Methods\obj\Debug\net9.0\Methods.pdb
+D:\Начало\Start\Methods\obj\Debug\net9.0\Methods and params.genruntimeconfig.cache
+D:\Начало\Start\Methods\obj\Debug\net9.0\ref\Methods.dll

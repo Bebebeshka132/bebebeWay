@@ -1,0 +1,2 @@
+D:\Начало\Start\Classes and objects\obj\Debug\Classes and objects.csproj.AssemblyReference.cache
+D:\Начало\Start\Classes and objects\obj\Debug\Classes and objects.csproj.CoreCompileInputs.cache

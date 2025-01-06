@@ -1,0 +1,14 @@
+D:\Начало\Start\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+D:\Начало\Start\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll.config
+D:\Начало\Start\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+D:\Начало\Start\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+D:\Начало\Start\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+D:\Начало\Start\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+D:\Начало\Start\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Начало\Start\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Начало\Start\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+D:\Начало\Start\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+D:\Начало\Start\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+D:\Начало\Start\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+D:\Начало\Start\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+D:\Начало\Start\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll

@@ -1,0 +1,14 @@
+D:\Начало\Start\Start3\bin\Debug\net9.0\Start3.exe
+D:\Начало\Start\Start3\bin\Debug\net9.0\Start3.dll.config
+D:\Начало\Start\Start3\bin\Debug\net9.0\Start3.deps.json
+D:\Начало\Start\Start3\bin\Debug\net9.0\Start3.runtimeconfig.json
+D:\Начало\Start\Start3\bin\Debug\net9.0\Start3.dll
+D:\Начало\Start\Start3\bin\Debug\net9.0\Start3.pdb
+D:\Начало\Start\Start3\obj\Debug\net9.0\Start3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Начало\Start\Start3\obj\Debug\net9.0\Start3.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Start3\obj\Debug\net9.0\Start3.sourcelink.json
+D:\Начало\Start\Start3\obj\Debug\net9.0\Start3.dll
+D:\Начало\Start\Start3\obj\Debug\net9.0\refint\Start3.dll
+D:\Начало\Start\Start3\obj\Debug\net9.0\Start3.pdb
+D:\Начало\Start\Start3\obj\Debug\net9.0\Start3.genruntimeconfig.cache
+D:\Начало\Start\Start3\obj\Debug\net9.0\ref\Start3.dll

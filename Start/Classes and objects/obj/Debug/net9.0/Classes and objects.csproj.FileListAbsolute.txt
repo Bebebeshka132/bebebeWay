@@ -1,0 +1,14 @@
+D:\Начало\Start\Classes and objects\bin\Debug\net9.0\Classes and objects.exe
+D:\Начало\Start\Classes and objects\bin\Debug\net9.0\Classes and objects.dll.config
+D:\Начало\Start\Classes and objects\bin\Debug\net9.0\Classes and objects.deps.json
+D:\Начало\Start\Classes and objects\bin\Debug\net9.0\Classes and objects.runtimeconfig.json
+D:\Начало\Start\Classes and objects\bin\Debug\net9.0\Classes and objects.dll
+D:\Начало\Start\Classes and objects\bin\Debug\net9.0\Classes and objects.pdb
+D:\Начало\Start\Classes and objects\obj\Debug\net9.0\Classes and objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Начало\Start\Classes and objects\obj\Debug\net9.0\Classes and objects.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Classes and objects\obj\Debug\net9.0\Classes and objects.sourcelink.json
+D:\Начало\Start\Classes and objects\obj\Debug\net9.0\Classes and objects.dll
+D:\Начало\Start\Classes and objects\obj\Debug\net9.0\refint\Classes and objects.dll
+D:\Начало\Start\Classes and objects\obj\Debug\net9.0\Classes and objects.pdb
+D:\Начало\Start\Classes and objects\obj\Debug\net9.0\Classes and objects.genruntimeconfig.cache
+D:\Начало\Start\Classes and objects\obj\Debug\net9.0\ref\Classes and objects.dll
