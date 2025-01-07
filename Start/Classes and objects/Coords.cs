@@ -23,12 +23,20 @@ namespace Classes_and_objects
             return c = Math.Sqrt((a * a) + (b * b));
         }
 
-        public Coords (int firstBodyX, int firstBodyY, int secondBodyX, int secondBodyY)
+        public Coords (int firstBodyX, int firstBodyY, int secondBodyX)
         {
             this.firstBodyX = firstBodyX;
             this.firstBodyY = firstBodyY;
             this.secondBodyX = secondBodyX; 
-            this.secondBodyY = secondBodyY; 
+            //this.secondBodyY = secondBodyY; 
+        }
+        public Coords ()
+        {
+            firstBodyX = 60;
+            firstBodyY = 120;
+            secondBodyX = 30;
+            secondBodyY = 80;
+
         }
 
     }

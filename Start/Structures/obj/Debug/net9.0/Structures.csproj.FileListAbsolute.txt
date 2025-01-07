@@ -1,0 +1,15 @@
+D:\Начало\Start\Structures\obj\Debug\net9.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Начало\Start\Structures\obj\Debug\net9.0\Structures.AssemblyInfoInputs.cache
+D:\Начало\Start\Structures\obj\Debug\net9.0\Structures.AssemblyInfo.cs
+D:\Начало\Start\Structures\obj\Debug\net9.0\Structures.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Structures\obj\Debug\net9.0\Structures.sourcelink.json
+D:\Начало\Start\Structures\bin\Debug\net9.0\Structures.exe
+D:\Начало\Start\Structures\bin\Debug\net9.0\Structures.deps.json
+D:\Начало\Start\Structures\bin\Debug\net9.0\Structures.runtimeconfig.json
+D:\Начало\Start\Structures\bin\Debug\net9.0\Structures.dll
+D:\Начало\Start\Structures\bin\Debug\net9.0\Structures.pdb
+D:\Начало\Start\Structures\obj\Debug\net9.0\Structures.dll
+D:\Начало\Start\Structures\obj\Debug\net9.0\refint\Structures.dll
+D:\Начало\Start\Structures\obj\Debug\net9.0\Structures.pdb
+D:\Начало\Start\Structures\obj\Debug\net9.0\Structures.genruntimeconfig.cache
+D:\Начало\Start\Structures\obj\Debug\net9.0\ref\Structures.dll

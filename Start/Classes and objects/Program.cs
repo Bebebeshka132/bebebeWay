@@ -10,8 +10,18 @@ namespace Classes_and_objects
     {
         static void Main(string[] args)
         {
-            Coords a = new Coords(5, 8, 3, 17);
+            Coords a = new()
+            {
+                firstBodyX = 60,
+                firstBodyY = 120,
+                secondBodyX = 30,
+                secondBodyY = 80,
+            };
+
+
             
+
+
             double result = a.Distance();
             Console.WriteLine(result);
         }
