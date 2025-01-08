@@ -1,4 +1,6 @@
-﻿Bebebe Artyom = new Bebebe();
+﻿using System.Runtime.InteropServices;
+
+Bebebe Artyom = new Bebebe();
 Artyom.name = "Артём";
 Artyom.age = 16;
 Artyom.Print();
@@ -13,5 +15,5 @@ struct Bebebe
     };
     
 
-  
+
 
