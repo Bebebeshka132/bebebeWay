@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Classes_and_objects
+using LearnLibrary;
+namespace Coordes
 {
-    internal class Program
+    internal class Test
     {
         static void Main(string[] args)
         {
@@ -18,14 +15,13 @@ namespace Classes_and_objects
                 secondBodyY = 80,
             };
 
-
-            
-
-
             double result = a.Distance();
-            Console.WriteLine(result);
+            //Console.WriteLine(result);
+
+            SpamMessage suck = new SpamMessage("Саси!)", 1000);
+            suck.Spam();
         }
-    }
+    } 
 }
 
 
