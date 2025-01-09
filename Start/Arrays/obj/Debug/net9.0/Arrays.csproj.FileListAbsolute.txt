@@ -12,3 +12,7 @@ D:\Начало\Start\Arrays\obj\Debug\net9.0\refint\Arrays.dll
 D:\Начало\Start\Arrays\obj\Debug\net9.0\Arrays.pdb
 D:\Начало\Start\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
 D:\Начало\Start\Arrays\obj\Debug\net9.0\ref\Arrays.dll
+D:\Начало\Start\Arrays\bin\Debug\net9.0\LearnLibrary.dll
+D:\Начало\Start\Arrays\bin\Debug\net9.0\LearnLibrary.pdb
+D:\Начало\Start\Arrays\obj\Debug\net9.0\Arrays.csproj.AssemblyReference.cache
+D:\Начало\Start\Arrays\obj\Debug\net9.0\Arrays.csproj.Up2Date

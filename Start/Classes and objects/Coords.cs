@@ -1,6 +1,6 @@
 ﻿namespace Coordes
 {
-    internal class Coords
+    public class Coords
     {
         public int firstBodyX;
         public int firstBodyY;
@@ -8,7 +8,7 @@
         public int secondBodyY;
 
 
-        public double Distance()
+        internal double Distance()
         {
             int a = firstBodyX - secondBodyX;
             int b = firstBodyY - secondBodyY;
@@ -17,12 +17,12 @@
             return c = Math.Sqrt((a * a) + (b * b));
         }
 
-        public Coords (int firstBodyX, int firstBodyY, int secondBodyX)
+        public Coords (int firstBodyX, int firstBodyY, int secondBodyX, int secondBodyY)
         {
             this.firstBodyX = firstBodyX;
             this.firstBodyY = firstBodyY;
             this.secondBodyX = secondBodyX; 
-            //this.secondBodyY = secondBodyY; 
+            this.secondBodyY = secondBodyY;
         }
         public Coords ()
         {

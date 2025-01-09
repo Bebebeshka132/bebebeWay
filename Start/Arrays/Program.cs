@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using LearnLibrary;
+
 
 namespace Arrays
 {
@@ -10,6 +8,9 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
+            SpamMessage hui = new();
+            hui.Spam();
+
             int[,,] mas = { { { 1, 2 },{ 3, 4 } },
                 { { 4, 5 }, { 6, 7 } },
                 { { 7, 8 }, { 9, 10 } },
