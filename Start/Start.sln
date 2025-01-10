@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnLibrary", "LearnLibrar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{1646E532-47D4-4BFB-B85E-68FF4FFF89F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullables", "Nullables\Nullables.csproj", "{56CA615D-843E-478C-AA87-E817648C20A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{1646E532-47D4-4BFB-B85E-68FF4FFF89F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1646E532-47D4-4BFB-B85E-68FF4FFF89F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1646E532-47D4-4BFB-B85E-68FF4FFF89F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CA615D-843E-478C-AA87-E817648C20A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CA615D-843E-478C-AA87-E817648C20A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CA615D-843E-478C-AA87-E817648C20A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CA615D-843E-478C-AA87-E817648C20A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,5 +79,6 @@ Global
 		{C00264A8-591A-448C-A40B-C062D0070EFF} = {4943373D-3F56-4C3F-8BCF-04797A728A5B}
 		{F333B094-8C38-4575-878D-4D870DF5B03C} = {4943373D-3F56-4C3F-8BCF-04797A728A5B}
 		{1646E532-47D4-4BFB-B85E-68FF4FFF89F3} = {4943373D-3F56-4C3F-8BCF-04797A728A5B}
+		{56CA615D-843E-478C-AA87-E817648C20A9} = {4943373D-3F56-4C3F-8BCF-04797A728A5B}
 	EndGlobalSection
 EndGlobal

@@ -2,7 +2,7 @@
 {
     public class SpamMessage
     {
-        public string message;
+        public string? message;
         public int iterations;
 
         public SpamMessage(string message = "Hello World!", int iterations = 10)

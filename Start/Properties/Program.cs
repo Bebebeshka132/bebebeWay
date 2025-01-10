@@ -5,7 +5,7 @@ Console.WriteLine(be.Name);
 
 public class Properties
 {
-    string name;
+    string name = "be";
 
     public Properties(string name)
     {
@@ -31,7 +31,7 @@ public class Properties
         //}
 
         get { return name; }
-        set { }
+        set { name = value; }
 
     } 
 }

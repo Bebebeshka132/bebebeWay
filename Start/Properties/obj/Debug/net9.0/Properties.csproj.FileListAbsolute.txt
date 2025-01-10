@@ -13,6 +13,3 @@ D:\Начало\Start\Properties\obj\Debug\net9.0\refint\Properties.dll
 D:\Начало\Start\Properties\obj\Debug\net9.0\Properties.pdb
 D:\Начало\Start\Properties\obj\Debug\net9.0\Properties.genruntimeconfig.cache
 D:\Начало\Start\Properties\obj\Debug\net9.0\ref\Properties.dll
-D:\Начало\Start\Properties\bin\Debug\net9.0\Newtonsoft.Json.dll
-D:\Начало\Start\Properties\obj\Debug\net9.0\Properties.csproj.AssemblyReference.cache
-D:\Начало\Start\Properties\obj\Debug\net9.0\Properties.csproj.Up2Date
