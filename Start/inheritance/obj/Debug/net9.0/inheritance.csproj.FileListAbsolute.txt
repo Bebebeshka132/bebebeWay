@@ -1,0 +1,15 @@
+d:\Начало\Start\inheritance\bin\Debug\net9.0\inheritance.exe
+d:\Начало\Start\inheritance\bin\Debug\net9.0\inheritance.deps.json
+d:\Начало\Start\inheritance\bin\Debug\net9.0\inheritance.runtimeconfig.json
+d:\Начало\Start\inheritance\bin\Debug\net9.0\inheritance.dll
+d:\Начало\Start\inheritance\bin\Debug\net9.0\inheritance.pdb
+d:\Начало\Start\inheritance\obj\Debug\net9.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+d:\Начало\Start\inheritance\obj\Debug\net9.0\inheritance.AssemblyInfoInputs.cache
+d:\Начало\Start\inheritance\obj\Debug\net9.0\inheritance.AssemblyInfo.cs
+d:\Начало\Start\inheritance\obj\Debug\net9.0\inheritance.csproj.CoreCompileInputs.cache
+d:\Начало\Start\inheritance\obj\Debug\net9.0\inheritance.sourcelink.json
+d:\Начало\Start\inheritance\obj\Debug\net9.0\inheritance.dll
+d:\Начало\Start\inheritance\obj\Debug\net9.0\refint\inheritance.dll
+d:\Начало\Start\inheritance\obj\Debug\net9.0\inheritance.pdb
+d:\Начало\Start\inheritance\obj\Debug\net9.0\inheritance.genruntimeconfig.cache
+d:\Начало\Start\inheritance\obj\Debug\net9.0\ref\inheritance.dll

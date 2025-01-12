@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|solutionrelative:classes and objects\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\classes and objects\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|solutionrelative:classes and objects\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1646E532-47D4-4BFB-B85E-68FF4FFF89F3}|Properties\\Properties.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1646E532-47D4-4BFB-B85E-68FF4FFF89F3}|Properties\\Properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{135F5AEA-46D2-4DFC-B490-1986821B18DF}|LearnLibrary\\LearnLibrary.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\learnlibrary\\spammessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{135F5AEA-46D2-4DFC-B490-1986821B18DF}|LearnLibrary\\LearnLibrary.csproj|solutionrelative:learnlibrary\\spammessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\classes and objects\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|solutionrelative:classes and objects\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SpamMessage.cs",
               "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\LearnLibrary\\SpamMessage.cs",
               "RelativeDocumentMoniker": "LearnLibrary\\SpamMessage.cs",
               "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\LearnLibrary\\SpamMessage.cs",
               "RelativeToolTip": "LearnLibrary\\SpamMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T10:58:45.677Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Calc.cs",
               "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\LearnLibrary\\Calc.cs",
               "RelativeDocumentMoniker": "LearnLibrary\\Calc.cs",
@@ -64,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Properties\\Program.cs",
               "RelativeDocumentMoniker": "Properties\\Program.cs",
@@ -77,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Coords.cs",
               "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Classes and objects\\Coords.cs",
               "RelativeDocumentMoniker": "Classes and objects\\Coords.cs",
@@ -96,10 +92,14 @@
               "RelativeDocumentMoniker": "Classes and objects\\Test.cs",
               "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Classes and objects\\Test.cs",
               "RelativeToolTip": "Classes and objects\\Test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T10:52:26.512Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

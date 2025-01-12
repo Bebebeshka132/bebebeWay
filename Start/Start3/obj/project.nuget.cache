@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wAuMVImfZq4=",
+  "dgSpecHash": "iMdsnDkJymk=",
   "success": true,
   "projectFilePath": "D:\\Начало\\Start\\Start3\\Start3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\Windows 10\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+    "C:\\Users\\Liffiel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Liffiel\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

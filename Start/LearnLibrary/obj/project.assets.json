@@ -8,8 +8,8 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Windows 10\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Liffiel\\.nuget\\packages\\": {},
+    "D:\\Visual Studio\\SDK\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -17,14 +17,14 @@
       "projectUniqueName": "D:\\Начало\\Start\\LearnLibrary\\LearnLibrary.csproj",
       "projectName": "LearnLibrary",
       "projectPath": "D:\\Начало\\Start\\LearnLibrary\\LearnLibrary.csproj",
-      "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Liffiel\\.nuget\\packages\\",
       "outputPath": "D:\\Начало\\Start\\LearnLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Visual Studio\\SDK\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Liffiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

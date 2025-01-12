@@ -19,7 +19,7 @@ namespace Coordes
             Console.WriteLine(result);
 
             SpamMessage suck = new SpamMessage("Саси!)", 1000);
-            //suck.Spam();
+            suck.Spam();
 
             Console.WriteLine(Sum(2, 2));
         }
