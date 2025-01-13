@@ -1,0 +1,15 @@
+D:\Начало\Start\Virtual and Override\bin\Debug\net9.0\Virtual and Override.exe
+D:\Начало\Start\Virtual and Override\bin\Debug\net9.0\Virtual and Override.deps.json
+D:\Начало\Start\Virtual and Override\bin\Debug\net9.0\Virtual and Override.runtimeconfig.json
+D:\Начало\Start\Virtual and Override\bin\Debug\net9.0\Virtual and Override.dll
+D:\Начало\Start\Virtual and Override\bin\Debug\net9.0\Virtual and Override.pdb
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\Virtual and Override.GeneratedMSBuildEditorConfig.editorconfig
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\Virtual and Override.AssemblyInfoInputs.cache
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\Virtual and Override.AssemblyInfo.cs
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\Virtual and Override.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\Virtual and Override.sourcelink.json
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\Virtual and Override.dll
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\refint\Virtual and Override.dll
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\Virtual and Override.pdb
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\Virtual and Override.genruntimeconfig.cache
+D:\Начало\Start\Virtual and Override\obj\Debug\net9.0\ref\Virtual and Override.dll

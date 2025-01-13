@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\classes and objects\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|solutionrelative:classes and objects\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49FF2DD9-71A2-41CE-936C-3EA49002EECF}|Virtual and Override\\Virtual and Override.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\virtual and override\\learntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49FF2DD9-71A2-41CE-936C-3EA49002EECF}|Virtual and Override\\Virtual and Override.csproj|solutionrelative:virtual and override\\learntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\classes and objects\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C00264A8-591A-448C-A40B-C062D0070EFF}|Classes and objects\\Classes and objects.csproj|solutionrelative:classes and objects\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1646E532-47D4-4BFB-B85E-68FF4FFF89F3}|Properties\\Properties.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1646E532-47D4-4BFB-B85E-68FF4FFF89F3}|Properties\\Properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{135F5AEA-46D2-4DFC-B490-1986821B18DF}|LearnLibrary\\LearnLibrary.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\learnlibrary\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{135F5AEA-46D2-4DFC-B490-1986821B18DF}|LearnLibrary\\LearnLibrary.csproj|solutionrelative:learnlibrary\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{135F5AEA-46D2-4DFC-B490-1986821B18DF}|LearnLibrary\\LearnLibrary.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\learnlibrary\\spammessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{135F5AEA-46D2-4DFC-B490-1986821B18DF}|LearnLibrary\\LearnLibrary.csproj|solutionrelative:learnlibrary\\spammessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4939334D-E48B-4904-A854-E5E7EE874008}|Inheritance\\Inheritance.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\inheritance\\learntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4939334D-E48B-4904-A854-E5E7EE874008}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\learntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SpamMessage.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\LearnLibrary\\SpamMessage.cs",
-              "RelativeDocumentMoniker": "LearnLibrary\\SpamMessage.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\LearnLibrary\\SpamMessage.cs",
-              "RelativeToolTip": "LearnLibrary\\SpamMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T10:58:45.677Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Calc.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\LearnLibrary\\Calc.cs",
-              "RelativeDocumentMoniker": "LearnLibrary\\Calc.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\LearnLibrary\\Calc.cs",
-              "RelativeToolTip": "LearnLibrary\\Calc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LearnTest.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Virtual and Override\\LearnTest.cs",
+              "RelativeDocumentMoniker": "Virtual and Override\\LearnTest.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Virtual and Override\\LearnTest.cs",
+              "RelativeToolTip": "Virtual and Override\\LearnTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T10:54:46.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Properties\\Program.cs",
-              "RelativeDocumentMoniker": "Properties\\Program.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Properties\\Program.cs",
-              "RelativeToolTip": "Properties\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:03:53.297Z",
+              "WhenOpened": "2025-01-13T11:23:41.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Coords.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Classes and objects\\Coords.cs",
-              "RelativeDocumentMoniker": "Classes and objects\\Coords.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Classes and objects\\Coords.cs",
-              "RelativeToolTip": "Classes and objects\\Coords.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Title": "LearnTest.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Inheritance\\LearnTest.cs",
+              "RelativeDocumentMoniker": "Inheritance\\LearnTest.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Inheritance\\LearnTest.cs",
+              "RelativeToolTip": "Inheritance\\LearnTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T12:10:55.826Z",
+              "WhenOpened": "2025-01-13T09:36:03.442Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Test.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Classes and objects\\Test.cs",
-              "RelativeDocumentMoniker": "Classes and objects\\Test.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Classes and objects\\Test.cs",
-              "RelativeToolTip": "Classes and objects\\Test.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T10:52:26.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

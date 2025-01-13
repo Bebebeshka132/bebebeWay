@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("inheritance")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ef955a0bcd11f4eb5bedbcd579dacefd98d3bd0")]
-[assembly: System.Reflection.AssemblyProductAttribute("inheritance")]
-[assembly: System.Reflection.AssemblyTitleAttribute("inheritance")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88ecc8f47dd0bb459ab4d5afffba8155a890161f")]
+[assembly: System.Reflection.AssemblyProductAttribute("Inheritance")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Inheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

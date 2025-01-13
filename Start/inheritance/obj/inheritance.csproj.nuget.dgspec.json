@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Начало\\Start\\inheritance\\inheritance.csproj": {}
+    "D:\\Начало\\Start\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "d:\\Начало\\Start\\inheritance\\inheritance.csproj": {
+    "D:\\Начало\\Start\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Начало\\Start\\inheritance\\inheritance.csproj",
-        "projectName": "inheritance",
-        "projectPath": "d:\\Начало\\Start\\inheritance\\inheritance.csproj",
-        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "d:\\Начало\\Start\\inheritance\\obj\\",
+        "projectUniqueName": "D:\\Начало\\Start\\Inheritance\\Inheritance.csproj",
+        "projectName": "Inheritance",
+        "projectPath": "D:\\Начало\\Start\\Inheritance\\Inheritance.csproj",
+        "packagesPath": "C:\\Users\\Liffiel\\.nuget\\packages\\",
+        "outputPath": "D:\\Начало\\Start\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Visual Studio\\SDK\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Liffiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
