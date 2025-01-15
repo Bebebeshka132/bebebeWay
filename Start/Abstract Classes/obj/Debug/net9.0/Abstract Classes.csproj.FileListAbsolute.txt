@@ -1,0 +1,15 @@
+D:\Начало\Start\Abstract Classes\bin\Debug\net9.0\Abstract Classes.exe
+D:\Начало\Start\Abstract Classes\bin\Debug\net9.0\Abstract Classes.deps.json
+D:\Начало\Start\Abstract Classes\bin\Debug\net9.0\Abstract Classes.runtimeconfig.json
+D:\Начало\Start\Abstract Classes\bin\Debug\net9.0\Abstract Classes.dll
+D:\Начало\Start\Abstract Classes\bin\Debug\net9.0\Abstract Classes.pdb
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\Abstract Classes.AssemblyInfoInputs.cache
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\Abstract Classes.AssemblyInfo.cs
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\Abstract Classes.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\Abstract Classes.sourcelink.json
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\Abstract Classes.dll
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\refint\Abstract Classes.dll
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\Abstract Classes.pdb
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\Abstract Classes.genruntimeconfig.cache
+D:\Начало\Start\Abstract Classes\obj\Debug\net9.0\ref\Abstract Classes.dll

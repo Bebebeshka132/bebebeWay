@@ -1,0 +1,15 @@
+D:\Начало\Start\Hiding\obj\Debug\net9.0\Hiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Начало\Start\Hiding\obj\Debug\net9.0\Hiding.AssemblyInfoInputs.cache
+D:\Начало\Start\Hiding\obj\Debug\net9.0\Hiding.AssemblyInfo.cs
+D:\Начало\Start\Hiding\obj\Debug\net9.0\Hiding.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Hiding\obj\Debug\net9.0\Hiding.sourcelink.json
+D:\Начало\Start\Hiding\bin\Debug\net9.0\Hiding.exe
+D:\Начало\Start\Hiding\bin\Debug\net9.0\Hiding.deps.json
+D:\Начало\Start\Hiding\bin\Debug\net9.0\Hiding.runtimeconfig.json
+D:\Начало\Start\Hiding\bin\Debug\net9.0\Hiding.dll
+D:\Начало\Start\Hiding\bin\Debug\net9.0\Hiding.pdb
+D:\Начало\Start\Hiding\obj\Debug\net9.0\Hiding.dll
+D:\Начало\Start\Hiding\obj\Debug\net9.0\refint\Hiding.dll
+D:\Начало\Start\Hiding\obj\Debug\net9.0\Hiding.pdb
+D:\Начало\Start\Hiding\obj\Debug\net9.0\Hiding.genruntimeconfig.cache
+D:\Начало\Start\Hiding\obj\Debug\net9.0\ref\Hiding.dll

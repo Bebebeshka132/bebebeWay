@@ -43,6 +43,7 @@ public class PenisWeight : Penis
 
     public override void PenisPrint()
     {
+        base.PenisPrint();
         Console.WriteLine($"Длина вашего пениса {Length} см");
     }
     public void Combination()
