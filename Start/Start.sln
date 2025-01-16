@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Classes", "Abstrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.Object Methods", "System.Object Methods\System.Object Methods.csproj", "{B8B02D34-C096-47BB-AA10-69A06A4F6862}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Types", "Generic Types\Generic Types.csproj", "{B2F64E0C-B6F6-4B38-8AF6-C2D801B4668A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B8B02D34-C096-47BB-AA10-69A06A4F6862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8B02D34-C096-47BB-AA10-69A06A4F6862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8B02D34-C096-47BB-AA10-69A06A4F6862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F64E0C-B6F6-4B38-8AF6-C2D801B4668A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F64E0C-B6F6-4B38-8AF6-C2D801B4668A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F64E0C-B6F6-4B38-8AF6-C2D801B4668A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F64E0C-B6F6-4B38-8AF6-C2D801B4668A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -117,5 +123,6 @@ Global
 		{9411C146-21ED-469B-A07F-260082F651AD} = {26F64D3B-AB2A-4BEA-B312-B8590BAB302B}
 		{ACE58D8F-FF99-45FE-B54B-1F380B553FFC} = {26F64D3B-AB2A-4BEA-B312-B8590BAB302B}
 		{B8B02D34-C096-47BB-AA10-69A06A4F6862} = {26F64D3B-AB2A-4BEA-B312-B8590BAB302B}
+		{B2F64E0C-B6F6-4B38-8AF6-C2D801B4668A} = {26F64D3B-AB2A-4BEA-B312-B8590BAB302B}
 	EndGlobalSection
 EndGlobal

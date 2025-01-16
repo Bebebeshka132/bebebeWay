@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{135F5AEA-46D2-4DFC-B490-1986821B18DF}|LearnLibrary\\LearnLibrary.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\learnlibrary\\arrayeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F5AEA-46D2-4DFC-B490-1986821B18DF}|LearnLibrary\\LearnLibrary.csproj|solutionrelative:learnlibrary\\arrayeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F64E0C-B6F6-4B38-8AF6-C2D801B4668A}|Generic Types\\Generic Types.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\generic types\\generictypeslearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F64E0C-B6F6-4B38-8AF6-C2D801B4668A}|Generic Types\\Generic Types.csproj|solutionrelative:generic types\\generictypeslearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACE58D8F-FF99-45FE-B54B-1F380B553FFC}|Abstract Classes\\Abstract Classes.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\abstract classes\\abstractlearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACE58D8F-FF99-45FE-B54B-1F380B553FFC}|Abstract Classes\\Abstract Classes.csproj|solutionrelative:abstract classes\\abstractlearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4939334D-E48B-4904-A854-E5E7EE874008}|Inheritance\\Inheritance.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\inheritance\\inheritancelearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4939334D-E48B-4904-A854-E5E7EE874008}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\inheritancelearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9411C146-21ED-469B-A07F-260082F651AD}|Hiding\\Hiding.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\hiding\\hidinglearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9411C146-21ED-469B-A07F-260082F651AD}|Hiding\\Hiding.csproj|solutionrelative:hiding\\hidinglearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8B02D34-C096-47BB-AA10-69A06A4F6862}|System.Object Methods\\System.Object Methods.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\system.object methods\\systemobjectlearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8B02D34-C096-47BB-AA10-69A06A4F6862}|System.Object Methods\\System.Object Methods.csproj|solutionrelative:system.object methods\\systemobjectlearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49FF2DD9-71A2-41CE-936C-3EA49002EECF}|Virtual and Override\\Virtual and Override.csproj|d:\\\u043D\u0430\u0447\u0430\u043B\u043E\\start\\virtual and override\\virtuallearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49FF2DD9-71A2-41CE-936C-3EA49002EECF}|Virtual and Override\\Virtual and Override.csproj|solutionrelative:virtual and override\\virtuallearntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayEditor.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\LearnLibrary\\ArrayEditor.cs",
+              "RelativeDocumentMoniker": "LearnLibrary\\ArrayEditor.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\LearnLibrary\\ArrayEditor.cs",
+              "RelativeToolTip": "LearnLibrary\\ArrayEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:08:50.538Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericTypesLearnTest.cs",
+              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Generic Types\\GenericTypesLearnTest.cs",
+              "RelativeDocumentMoniker": "Generic Types\\GenericTypesLearnTest.cs",
+              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Generic Types\\GenericTypesLearnTest.cs",
+              "RelativeToolTip": "Generic Types\\GenericTypesLearnTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:12:46.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,61 +66,22 @@
               "RelativeDocumentMoniker": "System.Object Methods\\SystemObjectLearnTest.cs",
               "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\System.Object Methods\\SystemObjectLearnTest.cs",
               "RelativeToolTip": "System.Object Methods\\SystemObjectLearnTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T11:00:39.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AbstractLearnTest.cs",
               "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Abstract Classes\\AbstractLearnTest.cs",
               "RelativeDocumentMoniker": "Abstract Classes\\AbstractLearnTest.cs",
               "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Abstract Classes\\AbstractLearnTest.cs",
               "RelativeToolTip": "Abstract Classes\\AbstractLearnTest.cs",
-              "ViewState": "AgIAACkAAABA4yzA5nMiwAIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T11:00:07.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HidingLearnTest.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Hiding\\HidingLearnTest.cs",
-              "RelativeDocumentMoniker": "Hiding\\HidingLearnTest.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Hiding\\HidingLearnTest.cs",
-              "RelativeToolTip": "Hiding\\HidingLearnTest.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T08:40:15.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VirtualLearnTest.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Virtual and Override\\VirtualLearnTest.cs",
-              "RelativeDocumentMoniker": "Virtual and Override\\VirtualLearnTest.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Virtual and Override\\VirtualLearnTest.cs",
-              "RelativeToolTip": "Virtual and Override\\VirtualLearnTest.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:23:41.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InheritanceLearnTest.cs",
-              "DocumentMoniker": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Inheritance\\InheritanceLearnTest.cs",
-              "RelativeDocumentMoniker": "Inheritance\\InheritanceLearnTest.cs",
-              "ToolTip": "D:\\\u041D\u0430\u0447\u0430\u043B\u043E\\Start\\Inheritance\\InheritanceLearnTest.cs",
-              "RelativeToolTip": "Inheritance\\InheritanceLearnTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T09:36:03.442Z",
               "EditorCaption": ""
             }
           ]

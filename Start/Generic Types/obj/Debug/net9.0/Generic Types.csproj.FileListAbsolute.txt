@@ -1,0 +1,19 @@
+D:\Начало\Start\Generic Types\bin\Debug\net9.0\Generic Types.exe
+D:\Начало\Start\Generic Types\bin\Debug\net9.0\Generic Types.deps.json
+D:\Начало\Start\Generic Types\bin\Debug\net9.0\Generic Types.runtimeconfig.json
+D:\Начало\Start\Generic Types\bin\Debug\net9.0\Generic Types.dll
+D:\Начало\Start\Generic Types\bin\Debug\net9.0\Generic Types.pdb
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic Types.AssemblyInfoInputs.cache
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic Types.AssemblyInfo.cs
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic Types.csproj.CoreCompileInputs.cache
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic Types.sourcelink.json
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic Types.dll
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\refint\Generic Types.dll
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic Types.pdb
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic Types.genruntimeconfig.cache
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\ref\Generic Types.dll
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic Types.csproj.AssemblyReference.cache
+D:\Начало\Start\Generic Types\bin\Debug\net9.0\LearnLibrary.dll
+D:\Начало\Start\Generic Types\bin\Debug\net9.0\LearnLibrary.pdb
+D:\Начало\Start\Generic Types\obj\Debug\net9.0\Generic .D7230FC3.Up2Date
